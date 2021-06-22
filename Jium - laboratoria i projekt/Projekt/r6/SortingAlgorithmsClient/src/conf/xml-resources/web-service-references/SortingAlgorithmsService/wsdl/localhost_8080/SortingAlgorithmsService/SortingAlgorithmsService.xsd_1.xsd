@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI (http://jax-ws.java.net). RI's version is Metro/2.3.2-b608 (trunk-7979; 2015-01-21T12:50:19+0000) JAXWS-RI/2.2.11-b150120.1832 JAXWS-API/2.2.12 JAXB-RI/2.2.12-b141219.1637 JAXB-API/2.2.13-b141020.1521 svn-revision#unknown. --><xs:schema xmlns:tns="http://services.lab.polsl.pl/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://services.lab.polsl.pl/">
+
+<xs:element name="Exception" type="tns:Exception"/>
+
+<xs:element name="addSortingTable" type="tns:addSortingTable"/>
+
+<xs:element name="addSortingTableResponse" type="tns:addSortingTableResponse"/>
+
+<xs:element name="algorithms" type="tns:algorithms"/>
+
+<xs:element name="getAlgorithm" type="tns:getAlgorithm"/>
+
+<xs:element name="getAlgorithmResponse" type="tns:getAlgorithmResponse"/>
+
+<xs:element name="getAllAlgorithms" type="tns:getAllAlgorithms"/>
+
+<xs:element name="getAllAlgorithmsResponse" type="tns:getAllAlgorithmsResponse"/>
+
+<xs:element name="getAllNumbers" type="tns:getAllNumbers"/>
+
+<xs:element name="getAllNumbersResponse" type="tns:getAllNumbersResponse"/>
+
+<xs:element name="getAllSortingTables" type="tns:getAllSortingTables"/>
+
+<xs:element name="getAllSortingTablesResponse" type="tns:getAllSortingTablesResponse"/>
+
+<xs:element name="getSortingTable" type="tns:getSortingTable"/>
+
+<xs:element name="getSortingTableContent" type="tns:getSortingTableContent"/>
+
+<xs:element name="getSortingTableContentResponse" type="tns:getSortingTableContentResponse"/>
+
+<xs:element name="getSortingTableResponse" type="tns:getSortingTableResponse"/>
+
+<xs:element name="merge" type="tns:merge"/>
+
+<xs:element name="mergeResponse" type="tns:mergeResponse"/>
+
+<xs:element name="numbers" type="tns:numbers"/>
+
+<xs:element name="persist" type="tns:persist"/>
+
+<xs:element name="persistResponse" type="tns:persistResponse"/>
+
+<xs:element name="sort" type="tns:sort"/>
+
+<xs:element name="sortResponse" type="tns:sortResponse"/>
+
+<xs:element name="sortingTables" type="tns:sortingTables"/>
+
+<xs:complexType name="getAllNumbers">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="getAllNumbersResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:numbers" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="numbers">
+<xs:sequence>
+<xs:element name="id" type="xs:int" minOccurs="0"/>
+<xs:element name="index" type="xs:int" minOccurs="0"/>
+<xs:element name="isPointedAt" type="xs:boolean" minOccurs="0"/>
+<xs:element name="tableId" type="tns:sortingTables" minOccurs="0"/>
+<xs:element name="value" type="xs:int" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="sortingTables">
+<xs:sequence>
+<xs:element name="algorithm" type="xs:string" minOccurs="0"/>
+<xs:element name="id" type="xs:int" minOccurs="0"/>
+<xs:element name="isSorted" type="xs:boolean" minOccurs="0"/>
+<xs:element name="size" type="xs:int" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAllAlgorithms">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="getAllAlgorithmsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:algorithms" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="algorithms">
+<xs:sequence>
+<xs:element name="id" type="xs:int" minOccurs="0"/>
+<xs:element name="name" type="xs:string" minOccurs="0"/>
+<xs:element name="state" type="xs:int" minOccurs="0"/>
+<xs:element name="tableId" type="tns:sortingTables" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="merge">
+<xs:sequence>
+<xs:element name="arg0" type="tns:sortingTables" minOccurs="0"/>
+<xs:element name="arg1" type="tns:algorithms" minOccurs="0"/>
+<xs:element name="arg2" type="tns:numbers" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="mergeResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="Exception">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAlgorithm">
+<xs:sequence>
+<xs:element name="tableID" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAlgorithmResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:algorithms" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSortingTableContent">
+<xs:sequence>
+<xs:element name="tableID" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSortingTableContentResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:numbers" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSortingTable">
+<xs:sequence>
+<xs:element name="tableID" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSortingTableResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:sortingTables" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="sort">
+<xs:sequence>
+<xs:element name="tableID" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="sortResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:boolean" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="persist">
+<xs:sequence>
+<xs:element name="arg0" type="tns:sortingTables" minOccurs="0"/>
+<xs:element name="arg1" type="tns:algorithms" minOccurs="0"/>
+<xs:element name="arg2" type="tns:numbers" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="persistResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="addSortingTable">
+<xs:sequence>
+<xs:element name="size" type="xs:int"/>
+<xs:element name="algorithm" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="addSortingTableResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:boolean" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAllSortingTables">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="getAllSortingTablesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:sortingTables" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

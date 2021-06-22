@@ -1,0 +1,199 @@
+body{
+	margin: 0;
+	background: #323a3d;
+}
+
+#NAGLOWEK{
+	text-align: center;
+	margin: 0;
+	padding-top: 1px;
+	padding-bottom: 10px;
+	width: 100%;
+	height: 80px;
+	line-height: 20px;
+    background: #545c5f;
+}
+
+#MENU ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#MENU ul li {
+	display: inline;
+}
+
+#MENU a{
+	width: 100px;
+	height: 18px;
+	line-height: 18px;
+	border: 1px solid black;
+	text-decoration: none;
+	display: inline-block;
+	background: #434b4e;
+	color: black;
+}
+
+#MENU a:hover{
+	color: #a9afaf;
+	background: #656d6f;
+}
+
+#ZAWARTOSC{
+	width: 1024px;
+	margin: 25px auto;
+}
+
+#TRESC{
+	
+}
+
+#TRESC h1{
+	font-size: 2em;
+}
+
+#TRESC a{
+	text-decoration: none;
+	color: black;
+}
+
+#TRESC a:hover{
+	color: #a9afaf;
+}
+
+#PROJEKT{
+	width: 1024px;
+	border: 1px solid black;
+	padding: 20px;
+	background: #545c5f;
+	margin-bottom: 10px;
+}
+
+#PROJEKT h2{
+	padding-bottom: 5px;
+	border-bottom: 2px dashed  black;
+}
+
+input[type=submit] {
+    background: #434b4e;
+    color: #03020b;
+    border-color: #03020b;
+    border-radius: 5px;
+    padding: 2px 20px;
+    margin: 0 10px;
+}
+
+input[type=submit]:hover {
+    background: #656d6f;
+    color: #a9afaf;
+    border-color: #25242d;
+}
+
+input[type=submit]:focus {
+    background: #656d6f;
+    color: #25242d;
+    border-color: #25242d;
+    outline: none;
+}
+
+input[type=text] {
+    margin: 0 0 10px 10px;
+    padding: 5px;
+    background: #434b4e;
+    color: #03020b;
+    border-color: #03020b;
+}
+
+input[type=text]:hover {
+    background: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+}
+
+input[type=text]:focus {
+    background-color: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+    outline: none;
+}
+
+input[type=number] {
+    margin: 0 0 10px 10px;
+    padding: 5px;
+    background: #434b4e;
+    color: #03020b;
+    border-color: #03020b;
+}
+
+input[type=number]:hover {
+    background: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+}
+
+input[type=number]:focus {
+    background-color: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+    outline: none;
+}
+
+input[type=password] {
+    margin: 0 0 10px 10px;
+    padding: 5px;
+    background: #434b4e;
+    color: #03020b;
+    border-color: #03020b;
+}
+
+input[type=password]:hover {
+    background: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+}
+
+input[type=password]:focus {
+    background: #656d6f;
+    border-color: #25242d;
+    color: #25242d;
+    outline: none;
+}
+
+::placeholder {
+    color: #03020b;
+}
+
+textarea {
+    background: #434b4e;
+    color: #03020b;
+    border-color: #03020b;
+    border-radius: 5px;
+    padding: 2px 20px;
+    margin: 0 10px;
+}
+
+textarea:hover {
+    background: #656d6f;
+    color: #a9afaf;
+    border-color: #25242d;
+}
+
+textarea:focus {
+    background: #656d6f;
+    color: #25242d;
+    border-color: #25242d;
+    outline: none;
+}
+
+#STOPKA{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 26px;
+	line-height: 12px;
+    background: #545c5f;
+	font-size: 11px;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>dodaj_projekt</servlet-name>
+        <servlet-class>ProjektyGminne.Servlety.dodaj_projekt</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>wstaw_nowy_projekt</servlet-name>
+        <servlet-class>ProjektyGminne.Servlety.wstaw_nowy_projekt</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Przegladaj_projekt</servlet-name>
+        <servlet-class>ProjektyGminne.Servlety.Przegladaj_projekt</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>dodaj_projekt</servlet-name>
+        <url-pattern>/dodaj_projekt</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>wstaw_nowy_projekt</servlet-name>
+        <url-pattern>/wstaw_nowy_projekt</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Przegladaj_projekt</servlet-name>
+        <url-pattern>/Przegladaj_projekt</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

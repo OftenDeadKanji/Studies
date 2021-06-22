@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kursy">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Kursy\Kursy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Generowanie kurs&oacute;w">
+			<param name="Local" value="Kursy\Generowanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Usuwanie wielu kurs&oacute;w naraz">
+			<param name="Local" value="Kursy\Usuwanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edytowanie i usuwanie kursu">
+			<param name="Local" value="Kursy\Edytowanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pasa&iquest;er">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Rozk&sup3;ad jazdy">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Informacje og&oacute;lne">
+				<param name="Local" value="Pasazer\RozkladJazdy.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Przegl&sup1;danie rozk&sup3;adu jazdy dla linii">
+				<param name="Local" value="Pasazer\Przegladanie.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Wyszukiwanie po&sup3;&sup1;cze&ntilde;">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Wyszukiwanie po&sup3;&sup1;cze&ntilde;">
+				<param name="Local" value="Pasazer\Wyszukiwanie.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Grafik kierowcy">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przegl&sup1;danie grafiku">
+			<param name="Local" value="Kierowca\Kierowca.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Og&oacute;lne">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Spis treœci">
+			<param name="Local" value="SpisTresci.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Rejestracja">
+			<param name="Local" value="Ogolne\Rejestracja.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Logowanie">
+			<param name="Local" value="Ogolne\Logowanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Linie">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przejazdy">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Trasy">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tworzenie nowej trasy">
+					<param name="Local" value="Linie\Przejazdy\Trasy\Dodawanie.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Informacje og&oacute;lne">
+				<param name="Local" value="Linie\Przejazdy\Przejazdy.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Przegl&sup1;danie">
+				<param name="Local" value="Linie\Przejazdy\Przegladanie.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Dodawanie">
+				<param name="Local" value="Linie\Przejazdy\Dodawanie.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Edytowanie">
+				<param name="Local" value="Linie\Przejazdy\Edytowanie.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Usuwanie">
+				<param name="Local" value="Linie\Przejazdy\Usuwanie.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Linie\Linie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przegl&sup1;danie">
+			<param name="Local" value="Linie\Przegladanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodawanie">
+			<param name="Local" value="Linie\Dodawanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edytowanie">
+			<param name="Local" value="Linie\Edytowanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Usuwanie">
+			<param name="Local" value="Linie\Usuwanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pojazdy">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Pojazdy\Pojazdy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodawanie">
+			<param name="Local" value="Pojazdy\Dodawanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edytowanie">
+			<param name="Local" value="Pojazdy\Edytowanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Usuwanie">
+			<param name="Local" value="Pojazdy\Usuwanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Przystanki">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Przystanki\Przystanki.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przegl&sup1;danie">
+			<param name="Local" value="Przystanki\Przegladanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodawanie">
+			<param name="Local" value="Przystanki\Dodawanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edytowanie">
+			<param name="Local" value="Przystanki\Edytowanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Usuwanie">
+			<param name="Local" value="Przystanki\Usuwanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pracownicy">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Pracownicy\Pracownicy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przegl&sup1;danie">
+			<param name="Local" value="Pracownicy\Przegladanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodawanie">
+			<param name="Local" value="Pracownicy\Dodawanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Usuwanie">
+			<param name="Local" value="Pracownicy\Usuwanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edytowanie">
+			<param name="Local" value="Pracownicy\Edytowanie.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kierowcy">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informacje og&oacute;lne">
+			<param name="Local" value="Kierowcy\Kierowcy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Przegl&sup1;danie grafiku">
+			<param name="Local" value="Kierowcy\Przegladanie.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodawanie dnia wolnego">
+			<param name="Local" value="Kierowcy\Dodawanie.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

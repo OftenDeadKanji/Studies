@@ -1,0 +1,42 @@
+Wersja 1.0
+- dodanie instrukcji wektorowych
+
+Wersja 0.9
+- poprawienie DLL_ASM - teraz poprawnie wylicza niewiadome
+
+Wersja 0.8
+- dodanie DLL_ASM (bez instrukcji wektorowych), która częściowo poprawnie wylicza niewiadome (zbyt wcześniej wychodzi z pętli)
+
+Wersja 0.7.1:
+- poprawa działania programu (zwalnianie pamięci)
+
+Wersja 0.7:
+- dodanie i poprawa synchronizacji obliczeń wątków w celu wymuszenia działania programu według algorytmu Seidla co wyeliminowało błąd dotyczący zawieszania się programu podczas obliczeń
+- dodanie DLL_C, która poprawnie rozwiązuje układ równań metodą Seidla
+
+Wersja 0.6:
+- poprawnienie generatora - teraz generuje on układ równań dla metody Seidla (elementy na głównej przekątnej są silnie dominujące)
+- dodanie testowej wersji funkcji rozwiązującej układ równań
+- dodanie wielowątkowości
+
+Informacje o aktualnych błędach:
+obliczanie czasami się zawiesza, działa w nieskończoność
+
+Wersja 0.3:
+- stworzenie view III
+- dodanie do view III kontrolek
+- obsługa kontrolek z view III
+- sprawdzanie poprawnego formatu pliku z równaniami
+
+Wersja 0.2:
+- stworzenie view I
+- dodanie do view I kontrolek
+- dodanie obługi kontrolek z view I
+- dodanie generatora układów równań liniowych
+- stworzenie view II
+- dodanie części kontrolek do view II
+- częściowe poprawne działanie kontrolek w view II
+
+Wersja 0.1:
+- założenie projektów
+- zainstalowanie biblioteki graficznej Allegro

@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=BD_Help.chm
+Contents file=SpisTresci.hhc
+Default topic=SpisTresci.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x415 Polski (Polska)
+Title=Pomoc
+
+
+[INFOTYPES]
+

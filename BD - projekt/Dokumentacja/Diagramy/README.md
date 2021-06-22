@@ -1,0 +1,1 @@
+Do edycji diagramów należy skorzystać z draw.io lub strony https://app.quickdatabasediagrams.com
