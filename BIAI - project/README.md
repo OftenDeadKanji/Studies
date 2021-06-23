@@ -1,4 +1,4 @@
 # Biologically inspired artificial intelligence
 
 Project co-author:
-- Amarbach
+- [Amarbach](https://github.com/Amarbach)

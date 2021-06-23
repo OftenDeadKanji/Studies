@@ -1,5 +1,5 @@
 # Interfejsy w systemach komputerowych.
 
 Współautorzy projektu:
-- kassenna
-- adao1003
+- [kassenna](https://github.com/kassenna)
+- [adao1003](https://github.com/adao1003)

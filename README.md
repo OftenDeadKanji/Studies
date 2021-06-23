@@ -7,3 +7,5 @@ IwSK - Interfejsy w Systemach Komputerowych
 JA - Języki Asemblerowe  
 JIUM - Java w Internecie i Urządzeniach Mobilnych  
 PwSGU - Programowanie w Silniku Gier Unity
+
+Jeśli kogoś nie uwzględniłem jako współautora danego projektu (nie jest wymieniony w odpowiednim readme) to proszę o kontakt - dodam najszybciej jak się da.

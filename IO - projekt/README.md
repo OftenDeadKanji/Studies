@@ -1,4 +1,4 @@
 # Inżynieria oprogramowania
 
 Współautor projektu:
-- Frognar
+- [Frognar](https://github.com/Frognar)
