@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Klasy">
+      <UniqueIdentifier>{8892391f-66c8-4af0-9db2-4a1145b72f07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Klasy">
+      <UniqueIdentifier>{1c5275a9-d6eb-4eeb-b3cf-f2075b168f1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Klasy\Tryby gry">
+      <UniqueIdentifier>{eb81438d-0e57-4170-b0e9-0ecb2d39f941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Klasy\Postaci">
+      <UniqueIdentifier>{065ce616-753b-4fa5-b1ac-20d7f85169c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Klasy\GUI">
+      <UniqueIdentifier>{ef1cd647-a501-4ce0-a743-181769c0a6e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Klasy\GUI">
+      <UniqueIdentifier>{4c2a0e9e-53a2-465d-900b-c616ab1dde43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Klasy\Przedmioty">
+      <UniqueIdentifier>{164cb453-cc97-4034-a7df-cff6a1c0e453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Klasy\tryby gry">
+      <UniqueIdentifier>{b948e908-f732-45e9-8152-043db8aeb040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Klasy\postaci">
+      <UniqueIdentifier>{6f32ab86-48d0-4f61-bebe-77b11aedbb47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Klasy\przedmioty">
+      <UniqueIdentifier>{fcd3fa27-87c3-4153-8d8c-a9b11475c30a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\GUI\okno.h">
+      <Filter>Pliki nagłówkowe\Klasy\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\GUI\przycisk.h">
+      <Filter>Pliki nagłówkowe\Klasy\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\przedmioty\bron.h">
+      <Filter>Pliki nagłówkowe\Klasy\Przedmioty</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\przedmioty\pancerz.h">
+      <Filter>Pliki nagłówkowe\Klasy\Przedmioty</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\przedmioty\przedmiot.h">
+      <Filter>Pliki nagłówkowe\Klasy\Przedmioty</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\postaci\gracz.h">
+      <Filter>Pliki nagłówkowe\Klasy\Postaci</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\postaci\npc.h">
+      <Filter>Pliki nagłówkowe\Klasy\Postaci</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\postaci\postac.h">
+      <Filter>Pliki nagłówkowe\Klasy\Postaci</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\tryby gry\edytor.h">
+      <Filter>Pliki nagłówkowe\Klasy\Tryby gry</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\tryby gry\gra.h">
+      <Filter>Pliki nagłówkowe\Klasy\Tryby gry</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\tryby gry\menu.h">
+      <Filter>Pliki nagłówkowe\Klasy\Tryby gry</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\tryby gry\tryb_gry.h">
+      <Filter>Pliki nagłówkowe\Klasy\Tryby gry</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\obiekt.h">
+      <Filter>Pliki nagłówkowe\Klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\poziom.h">
+      <Filter>Pliki nagłówkowe\Klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\GUI\tekst.h">
+      <Filter>Pliki nagłówkowe\Klasy\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\GUI\okienko.h">
+      <Filter>Pliki nagłówkowe\Klasy\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\przejscie.h">
+      <Filter>Pliki nagłówkowe\Klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\postaci\handlarz.h">
+      <Filter>Pliki nagłówkowe\Klasy\Postaci</Filter>
+    </ClInclude>
+    <ClInclude Include="klasy\wyjatek.h">
+      <Filter>Pliki nagłówkowe\Klasy</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\GUI\okno.cpp">
+      <Filter>Pliki źródłowe\Klasy\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\GUI\przycisk.cpp">
+      <Filter>Pliki źródłowe\Klasy\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\przedmioty\bron.cpp">
+      <Filter>Pliki źródłowe\Klasy\przedmioty</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\przedmioty\pancerz.cpp">
+      <Filter>Pliki źródłowe\Klasy\przedmioty</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\przedmioty\przedmiot.cpp">
+      <Filter>Pliki źródłowe\Klasy\przedmioty</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\postaci\gracz.cpp">
+      <Filter>Pliki źródłowe\Klasy\postaci</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\postaci\npc.cpp">
+      <Filter>Pliki źródłowe\Klasy\postaci</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\postaci\postac.cpp">
+      <Filter>Pliki źródłowe\Klasy\postaci</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\tryby gry\edytor.cpp">
+      <Filter>Pliki źródłowe\Klasy\tryby gry</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\tryby gry\gra.cpp">
+      <Filter>Pliki źródłowe\Klasy\tryby gry</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\tryby gry\menu.cpp">
+      <Filter>Pliki źródłowe\Klasy\tryby gry</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\tryby gry\tryb_gry.cpp">
+      <Filter>Pliki źródłowe\Klasy\tryby gry</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\obiekt.cpp">
+      <Filter>Pliki źródłowe\Klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\poziom.cpp">
+      <Filter>Pliki źródłowe\Klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\GUI\tekst.cpp">
+      <Filter>Pliki źródłowe\Klasy\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\GUI\okienko.cpp">
+      <Filter>Pliki źródłowe\Klasy\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\przejscie.cpp">
+      <Filter>Pliki źródłowe\Klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\postaci\handlarz.cpp">
+      <Filter>Pliki źródłowe\Klasy\postaci</Filter>
+    </ClCompile>
+    <ClCompile Include="klasy\wyjatek.cpp">
+      <Filter>Pliki źródłowe\Klasy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

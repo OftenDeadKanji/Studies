@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Playground.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Source files\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimalSprite.cpp">
+      <Filter>Source files\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Dog.cpp">
+      <Filter>Source files\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Mole.cpp">
+      <Filter>Source files\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source files\Animals</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Console.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Playground.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Header files\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimalSprite.h">
+      <Filter>Header files\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>Header files\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Mole.h">
+      <Filter>Header files\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header files\Animals</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{16db9cb3-4e80-474b-af2a-b5b081abe10b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{648606dc-341d-49c2-b0d7-ce4a84011e51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Animals">
+      <UniqueIdentifier>{9213c6b3-4697-452c-b679-82a37ce561ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Animals">
+      <UniqueIdentifier>{9ffa7364-54c7-4988-ad41-a3c6fc3d29cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

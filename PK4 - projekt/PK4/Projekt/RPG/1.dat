@@ -1,0 +1,598 @@
+class Obiekt
+0
+0 0
+0
+---
+class Obiekt
+5
+0 1
+1
+---
+class Obiekt
+3
+0 2
+1
+---
+class Obiekt
+2
+0 3
+1
+---
+class Obiekt
+5
+0 4
+1
+---
+class Obiekt
+5
+0 5
+1
+---
+class Obiekt
+5
+0 6
+1
+---
+class Obiekt
+3
+0 7
+1
+---
+class Obiekt
+2
+0 8
+1
+---
+class Obiekt
+0
+1 0
+0
+---
+class Obiekt
+5
+1 1
+1
+---
+class Obiekt
+2
+1 2
+1
+---
+class Obiekt
+2
+1 3
+1
+---
+class Obiekt
+5
+1 4
+1
+---
+class Obiekt
+5
+1 5
+1
+---
+class Obiekt
+5
+1 6
+1
+---
+class Obiekt
+2
+1 7
+1
+---
+class Obiekt
+2
+1 8
+1
+---
+class Obiekt
+1
+2 0
+0
+---
+class Obiekt
+5
+2 1
+1
+---
+class Obiekt
+2
+2 2
+1
+---
+class Obiekt
+2
+2 3
+1
+---
+class Obiekt
+2
+2 4
+1
+---
+class Obiekt
+5
+2 5
+1
+---
+class Obiekt
+2
+2 6
+1
+---
+class Obiekt
+2
+2 7
+1
+---
+class Obiekt
+3
+2 8
+1
+---
+class Obiekt
+0
+3 0
+0
+---
+class Obiekt
+5
+3 1
+1
+---
+class Obiekt
+4
+3 2
+1
+---
+class Obiekt
+2
+3 3
+1
+---
+class Obiekt
+3
+3 4
+1
+---
+class Obiekt
+5
+3 5
+1
+---
+class Obiekt
+4
+3 6
+1
+---
+class Obiekt
+2
+3 7
+1
+---
+class Obiekt
+2
+3 8
+1
+---
+class Obiekt
+0
+4 0
+0
+---
+class Obiekt
+5
+4 1
+1
+---
+class Obiekt
+2
+4 2
+1
+---
+class Obiekt
+3
+4 3
+1
+---
+class Obiekt
+2
+4 4
+1
+---
+class Obiekt
+5
+4 5
+1
+---
+class Obiekt
+2
+4 6
+1
+---
+class Obiekt
+2
+4 7
+1
+---
+class Obiekt
+4
+4 8
+1
+---
+class Obiekt
+1
+5 0
+0
+---
+class Obiekt
+5
+5 1
+1
+---
+class Obiekt
+5
+5 2
+1
+---
+class Obiekt
+5
+5 3
+1
+---
+class Obiekt
+5
+5 4
+1
+---
+class Obiekt
+5
+5 5
+1
+---
+class Obiekt
+2
+5 6
+1
+---
+class Obiekt
+2
+5 7
+1
+---
+class Obiekt
+2
+5 8
+1
+---
+class Obiekt
+0
+6 0
+0
+---
+class Obiekt
+5
+6 1
+1
+---
+class Handlarz
+30
+6 1
+0
+100 100 5 5 212 1 5 1 35
+10 0 10 0 15 0 16 0 10 0 10 0 -1
+---
+class Obiekt
+5
+6 2
+1
+---
+class Obiekt
+5
+6 3
+1
+---
+class Obiekt
+5
+6 4
+1
+---
+class Obiekt
+5
+6 5
+1
+---
+class Obiekt
+2
+6 6
+1
+---
+class Obiekt
+2
+6 7
+1
+---
+class Obiekt
+2
+6 8
+1
+---
+class Obiekt
+0
+7 0
+0
+---
+class Obiekt
+5
+7 1
+1
+---
+class Obiekt
+5
+7 2
+1
+---
+class Obiekt
+5
+7 3
+1
+---
+class Obiekt
+5
+7 4
+1
+---
+class Obiekt
+5
+7 5
+1
+---
+class Obiekt
+2
+7 6
+1
+---
+class Obiekt
+4
+7 7
+1
+---
+class Obiekt
+2
+7 8
+1
+---
+class Obiekt
+1
+8 0
+0
+---
+class Obiekt
+5
+8 1
+1
+---
+class Obiekt
+3
+8 2
+1
+---
+class Obiekt
+2
+8 3
+1
+---
+class Obiekt
+3
+8 4
+1
+---
+class Obiekt
+5
+8 5
+1
+---
+class Obiekt
+2
+8 6
+1
+---
+class Obiekt
+2
+8 7
+1
+---
+class Obiekt
+2
+8 8
+1
+---
+class Obiekt
+0
+9 0
+0
+---
+class Obiekt
+5
+9 1
+1
+---
+class Obiekt
+2
+9 2
+1
+---
+class Obiekt
+2
+9 3
+1
+---
+class Obiekt
+3
+9 4
+1
+---
+class Obiekt
+5
+9 5
+1
+---
+class Obiekt
+2
+9 6
+1
+---
+class Obiekt
+2
+9 7
+1
+---
+class Obiekt
+2
+9 8
+1
+---
+class Obiekt
+1
+10 0
+0
+---
+class Obiekt
+5
+10 1
+1
+---
+class Obiekt
+2
+10 2
+1
+---
+class Obiekt
+2
+10 3
+1
+---
+class Obiekt
+2
+10 4
+1
+---
+class Obiekt
+5
+10 5
+1
+---
+class Obiekt
+5
+10 6
+1
+---
+class Obiekt
+5
+10 7
+1
+---
+class Obiekt
+3
+10 8
+1
+---
+class Obiekt
+0
+11 0
+0
+---
+class Obiekt
+5
+11 1
+1
+---
+class Obiekt
+2
+11 2
+1
+---
+class Obiekt
+4
+11 3
+1
+---
+class Obiekt
+2
+11 4
+1
+---
+class Obiekt
+2
+11 5
+1
+---
+class Obiekt
+3
+11 6
+1
+---
+class Obiekt
+5
+11 7
+1
+---
+class Obiekt
+2
+11 8
+1
+---
+class Obiekt
+0
+12 0
+0
+---
+class Obiekt
+5
+12 1
+1
+---
+class Obiekt
+2
+12 2
+1
+---
+class Obiekt
+2
+12 3
+1
+---
+class Obiekt
+2
+12 4
+1
+---
+class Obiekt
+2
+12 5
+1
+---
+class Obiekt
+2
+12 6
+1
+---
+class Przejscie
+7
+12 7
+1
+2
+---
+class Obiekt
+5
+12 7
+1
+---
+class Obiekt
+2
+12 8
+1
+---

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAQAAAgAAAAAEYAAAEAACAIIAgRAEABAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAASQIBQCUgAABgBAAAACAAABAEAAAEBAAAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dog" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAAAQAAAAAQACAAAQAJAAgAggAAAAAA=</HashCode>
+      <FileName>Dog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mole" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAIAAAAAAQAAAAAQAAAAAQAJAAgAgAAAAAAE=</HashCode>
+      <FileName>Mole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playground" Collapsed="true">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAIAAiAAAAABABAAEAAAAAQAAAAEAACAAAA=</HashCode>
+      <FileName>Playground.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="console" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="animals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AnimalSprite" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAEAAQAMAAAQAAAIIQAJACgAAQAAAAAA=</HashCode>
+      <FileName>AnimalSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAABgAAAABAI=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
