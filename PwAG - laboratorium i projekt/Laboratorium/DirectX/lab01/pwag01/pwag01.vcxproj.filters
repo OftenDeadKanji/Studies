@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="fx">
+      <UniqueIdentifier>{145f95da-802b-495c-a00e-41f419afc64f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="aux">
+      <UniqueIdentifier>{b0cef099-d18e-46ba-98d3-1108359aa4b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="renderwidget.cpp" />
+    <ClCompile Include="perfcounter.cpp">
+      <Filter>aux</Filter>
+    </ClCompile>
+    <ClCompile Include="shadercompiler.cpp">
+      <Filter>aux</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="System.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vertexttypes.h" />
+    <ClInclude Include="perfcounter.h">
+      <Filter>aux</Filter>
+    </ClInclude>
+    <ClInclude Include="renderwidget.h" />
+    <ClInclude Include="common.h" />
+    <ClInclude Include="shadercompiler.h">
+      <Filter>aux</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pos.fx">
+      <Filter>fx</Filter>
+    </None>
+  </ItemGroup>
+</Project>

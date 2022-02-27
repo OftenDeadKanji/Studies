@@ -1,0 +1,44 @@
+Wbudowane atrybuty GLSL  dla ka¿dego wierzcho³ka wraz z typami i indeksami:
+
+gl_Vertex			0	position	(vec4)
+gl_Normal			2	normal		 (vec4)
+gl_Color			3	Primary color  (vec4)
+gl_SecondaryColor	4	Textue coordinate of texture unit 0  (vec4)
+gl_FogCoord			5	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord0	8	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord1	9	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord2	10	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord3	11	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord4	12	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord5	13	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord6	14	Textue coordinate of texture unit 0  (vec4)
+gl_MultiTexCoord7	15	Textue coordinate of texture unit 0  (vec4)
+gl_FogCoord			?	Fog Coord (float)
+
+Generyczny Vshader z przykladami:
+
+uniform vec3 MyStatParam;	//  parametr ustawiany glUniform3f( glGetUniformLocation( <progID>, "MyStatParam"), 0.0, 0.1, 0.2);
+
+attribute vec4 MyVertParam;	// ustalamy indeks loc=glGetAttribLocation(<progID>, "MyVertParam");
+							// wartosc ustawiamy dla kazdego punktu z osobna (jak np kolor) glVertexAttrib*(loc, ...);
+varying float MyOutput;		// zmienna wyjsciowa, która bedzie interpolowana po trójkatach (ta sama nazwa na wejsciu do fragment shadera)
+
+void main()
+{
+   
+   gl_Position = ftransform(); // szybsze od ponizszych
+   // gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+   // gl_Position = gl_ModelViewMatrix *gl_ProjectionMatrix * gl_Vertex ;
+   
+   gl_Normal = gl_NormalMatrix * gl_Normal;
+   
+   gl_FrontColor = {0, 1, 0}; 
+   // gl_FrontColor = gl_Color;
+   gl_BackColor = gl_Color
+}
+
+
+Dokumentacja i tutoriale
+https://www.opengl.org/sdk/docs/tutorials/ClockworkCoders/index.php (starszy ale wyjatkowo klarowny !!!)
+http://www.lighthouse3d.com/tutorials/glsl-core-tutorial/glsl-core-tutorial-index/
+http://en.wikibooks.org/wiki/GLSL_Programming
