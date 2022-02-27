@@ -1,6 +1,6 @@
 # Programowanie w Api Graficznych
 
-[Oryginalne repo](https://github.com/pawel0705/ProjectWAG)
+[Oryginalne repo projektu](https://github.com/pawel0705/ProjectWAG)
 
-Współautor projektu:
+Współautor:
 - [pawel0705](https://github.com/pawel0705)
