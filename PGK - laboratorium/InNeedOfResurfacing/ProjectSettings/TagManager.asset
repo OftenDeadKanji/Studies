@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Torch
+  - Pickable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Field
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_0
+    uniqueID: 4195623279
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Torches
+    uniqueID: 3680172943
+    locked: 0
+  - name: Characters
+    uniqueID: 2235696089
+    locked: 0
+  - name: Foreground
+    uniqueID: 1751537051
+    locked: 0
