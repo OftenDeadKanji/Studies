@@ -1,7 +1,7 @@
 # Repozytorium na projekty i laboratoria z różnych przedmiotów na studiach
 
 W ramach laboratoriów czy zajęć projektowych (współ)tworzyłem takie programy jak:
-- gry na PC - PK2, PK3, PK4, PwAG, ZTPGK, PGK
+- gry na PC - PK2, PK3, PK4, PwAG, ZTPGK, PGK, .NET
 - prototypy gier i proste sceny w Unity - ZTPGK, PGK
 - aplikacje webowe - IO, PPP OiRPOS
 - program z funkcją napisaną a asemblerze - JA
@@ -42,6 +42,7 @@ Sem. 1:
 - ZTPGK - Zaawansowane Techniki Programowania Grafiki Komputerowej
 
 Sem. 2:
+- .NET - platforma .NET
 - DGM - Dostępność w Grach Mobilnych
 - PwAG - Programowanie w Api Graficznych
 - PGK - Programowanie Gier Komputerowych
