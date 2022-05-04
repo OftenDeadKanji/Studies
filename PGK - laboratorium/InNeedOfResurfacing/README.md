@@ -6,5 +6,4 @@ In Need Of Resurfacing to gra stworzona poprzez połączenie gier In Need Of Lig
 Projekt jest tylko prototypem gry, przedstawieniem naszego pomysłu na połączenie dwóch gier na potrzeby laboratorium.
 
 ## Przykładowy filmik z rozgrywką
-<br>
 https://user-images.githubusercontent.com/32665400/166585680-bc0afe63-a1d0-4228-ada9-5fdedd7d2981.mp4
