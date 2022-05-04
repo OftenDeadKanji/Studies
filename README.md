@@ -1,4 +1,16 @@
-# Repozytorium na projekty czy laboratoria z różnych przedmiotów na studiach
+# Repozytorium na projekty i laboratoria z różnych przedmiotów na studiach
+
+W ramach laboratoriów czy zajęć projektowych (współ)tworzyłem takie programy jak:
+- gry na PC - PK2, PK3, PK4, PwAG, ZTPGK, PGK
+- prototypy gier i proste sceny w Unity - ZTPGK, PGK
+- aplikacje webowe - IO, PPP OiRPOS
+- program z funkcją napisaną a asemblerze - JA
+- wizualizacja algorytmów - JIUM
+- programowanie mikroprocesora - SMIW
+- aplikacje bazodanowe - IO, BD
+- aplikacje korzystające z sieci nauronowych - BIAI, PPP OiRPOS
+- niskopoziomowa komunikacja poprzez interfejs RS232 - IwSK
+- gra na kostki Sifteo Cubes - DGM
 
 ## Studia inżynierskie:  
 Sem. 2:
