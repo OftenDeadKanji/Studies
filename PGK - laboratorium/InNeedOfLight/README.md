@@ -5,5 +5,4 @@ In Need Of Light to gra 2D typu survival, w której celem jest zbieranie surowc�
 Stworzony projekt to tylko prototyp gry, przedstawienie naszego zamysłu i głównych mechanik na potrzeby laboratorium.
 
 ## Przykładowy filmik z rozgrywki 
-<br>
 https://user-images.githubusercontent.com/32665400/166584313-256d570d-6fa8-47f1-9847-4b972a4af746.mp4

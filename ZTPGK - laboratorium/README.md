@@ -11,9 +11,9 @@ Podczas zajęć stworzono m.in.:
 <br>
 <img src="https://user-images.githubusercontent.com/32665400/166608283-61bb19af-7a85-4765-b67c-22640fd0cf4a.png" width="50%"/>
 </p>
-<br>
+
 https://user-images.githubusercontent.com/32665400/166607202-5b3b7056-7994-4175-8341-96940fb2f1b7.mp4
-<br>
+
 https://user-images.githubusercontent.com/32665400/166608176-97546d8a-4aa5-4c38-925f-348fbfc23826.mp4
 
 ## Współautor
