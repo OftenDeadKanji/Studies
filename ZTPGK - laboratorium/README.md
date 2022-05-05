@@ -10,6 +10,8 @@ Podczas zajęć stworzono m.in.:
 <p align="center">
 <br>
 <img src="https://user-images.githubusercontent.com/32665400/166608283-61bb19af-7a85-4765-b67c-22640fd0cf4a.png" width="50%"/>
+<img src="https://user-images.githubusercontent.com/32665400/166847757-4f90bb03-29f9-4fd5-8c65-1bb9b9d6b992.png" width="50%"/>
+<img src="https://user-images.githubusercontent.com/32665400/166847702-a3820ddf-c105-48c4-9f75-15b3a11e4ae4.png" width="50%"/>
 </p>
 
 https://user-images.githubusercontent.com/32665400/166607202-5b3b7056-7994-4175-8341-96940fb2f1b7.mp4
