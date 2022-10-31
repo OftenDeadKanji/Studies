@@ -2,6 +2,7 @@
 
 W ramach laboratoriów czy zajęć projektowych (współ)tworzyłem takie programy jak:
 - gry na PC - PK2, PK3, PK4, PwAG, ZTPGK, PGK, .NET
+- gra na VR - SWiRR
 - prototypy gier i proste sceny w Unity - ZTPGK, PGK
 - aplikacje webowe - IO, PPP OiRPOS
 - program z funkcją napisaną a asemblerze - JA
@@ -47,6 +48,9 @@ Sem. 2:
 - PwAG - Programowanie w Api Graficznych
 - PGK - Programowanie Gier Komputerowych
 - PPP, OiRPOS - Praktyka Programowania Python, Organizacja i Zarządzanie Projektami Open Source
+
+Sem. 3:
+- SWiRR - Systemy Wirtualnej i Rozszerzonej Rzeczywistości
 
 ## Współautorstwo !!!
 Jeśli kogoś nie uwzględniłem jako współautora danego projektu (nie jest wymieniony w odpowiednim readme) to proszę o kontakt - dodam najszybciej jak się da!
